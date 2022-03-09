@@ -1,6 +1,7 @@
 # Frontend Mentor - NFT preview card component
 
 ![Design preview for the NFT preview card component coding challenge](./design/desktop-preview.jpg)
+Live Website Link: https://stupefied-swartz-7db1b8.netlify.app/
 
 ## Welcome! 👋
 
