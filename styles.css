@@ -25,11 +25,11 @@ body {
 .container {
 	background-color: var(--very-dark-blue-card-BG);
 	width: 400px;
-	padding: 1.25rem;
+	padding: 1.5rem 1rem 1rem 1.56rem;
 	border-radius: 10px;
 	box-sizing: border-box;
-	margin-bottom: 2rem;
-	box-shadow: 0 0 50px rgba(0, 0, 50, 0.35);
+	margin-bottom: 1.75rem;
+	box-shadow: 0 0 75px rgba(0, 0, 50, 0.35);
 }
 .container img {
 	width: 350px;
@@ -50,12 +50,14 @@ body {
 .container-row {
 	display: flex;
 	flex-direction: row;
-	margin-bottom: 15px;
+	margin-top: 10px;
+	margin-bottom: 3px;
 }
 .container-currency {
 	display: flex;
 	flex-direction: row;
-	margin-right: 100px;
+	margin-right: 98px;
+	font-weight: bold;
 }
 .container-currency img {
 	width: 12px;
@@ -93,6 +95,7 @@ body {
 	display: flex;
 	flex-direction: row;
 	margin-bottom: 0.5rem;
+	margin-top: 0.15rem;
 }
 
 .container-author img {
